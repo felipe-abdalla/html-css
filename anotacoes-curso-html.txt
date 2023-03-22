@@ -1,0 +1,8 @@
+Repositório: github.com/gustavoguanabara
+  	     gustavoguanabara.github.io
+Adobe Colors
+Paletton
+CollorZilla
+Fonts Ninja
+
+<span>		Usado como <div>, mas em nível de texto

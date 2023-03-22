@@ -1,0 +1,8 @@
+.jpeg			Alta formatação, recomendado para imagens grandes, distorce mais com zoom 
+.png			Permite transparência, distorce menos com zoom
+Ctrl + Space		Lista imagens ou caminhos de imagens dentro do atributo src na tag <img>
+favicon.cc		Site onde pode desenhar um icone favicon
+favicon.io		Site para converter texto, emoji ou imagem em favicon
+			* Manter o nome do arquivo de favicon como favicon.ico
+<h#>			Hierarquia que vai de 1-6
+Ctrl + P		>Wrap with abbreviation t (coloca o texto entre uma tag t)
